@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DEVGIT-farhan
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning JAVA and Kotlin for App Development.Html Css and JavaScript for Web Development
-- 👨‍💻 I'm in the process of learning new skills.
+- 👨‍💻 I'm in the process of gaining new skills.
 
 
 <!---
